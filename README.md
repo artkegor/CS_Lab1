@@ -8,6 +8,7 @@ cmake --build .```
 ```
 
 2. Запустить исполняемый файл  
+
 Для тестов:
 ```bash
 ./tests/test_vector
